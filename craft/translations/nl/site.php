@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'Buy tickets' => 'Koop tickets',
+    'Mutation Festival' => 'Mutation Festival',
     'Free' => 'Gratis',
     'Program' => 'Inspiratie',
     'Experts' => 'Sprekers',

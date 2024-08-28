@@ -1,0 +1,9 @@
+baseUrl: '@web/mutation/en'
+enabled: '1'
+handle: mutationen
+hasUrls: true
+language: en
+name: Mutation
+primary: false
+siteGroup: 97f02ac8-737c-4c35-9376-16164cd596a6 # Mutation
+sortOrder: 5

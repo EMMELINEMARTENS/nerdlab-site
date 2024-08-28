@@ -2,8 +2,10 @@
   <div class="o-wrapper o-wrapper--huge">
     <div class="c-header">
       {% include '_elements/elements.logo' %}
+      
       {# Site navigation #}
       {% include '_components/components.navigation' with { options: { handle: interface.navigation } } %}
+      <button>{{craft.app.language}}</button>
     </div>
   </div>
 </header>
